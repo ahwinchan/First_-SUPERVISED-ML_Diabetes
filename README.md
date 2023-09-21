@@ -1,6 +1,8 @@
 # First_-SUPERVISED-ML_Diabetes
 My first Supervised Machine Learning - Diabetes Dataset
 
+[![OIP.jpg](https://i.postimg.cc/J79Rtnms/OIP.jpg)](https://postimg.cc/c6MpbdvW)
+
 ## MACHINE LEARNING FOR DATA ANALYSIS
 Machine Learning is a method of data analysis where applications leverage existing data to discover patterns and make decisions.
 It is used to classification, clustering, predictive analytics, learning associations, anomaly detection, image analysis, and natural language processing.
