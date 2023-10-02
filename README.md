@@ -26,7 +26,6 @@ Learned and used this dataset to making predictions - Supervised Machine Learnin
 **4) Support Vector Machine**<br>
 **5) Decision Tree Classifier**<br>
 
-In summary, the highest accuracy model is Decision Tree Classifier. 
-Decision Tree is the most powerful and popular tool for classification and prediction for small datasets.
+In summary, the highest accuracy model is SUPPORT VECTOR MACHINE. 
 
-__Sources : Learning Guides from NTUC Learning Hub and using COLAB Notebook__
+__Sources : Learning Guides from NTUC Learning Hub and using GOOGLE COLAB Notebook__
